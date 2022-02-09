@@ -1,0 +1,2 @@
+{"_id":{"$oid":"61fdc35aaf5e000052005522"},"id":7,"id_texto":7,"pregunta":"¿Hay un señalamiento que prohibe estacionarse?","respuestas":[{"respuesta":"SI","pregunta_destino":0,"estado_final":true,"id_sancion":7},{"respuesta":"NO","pregunta_destino":0,"estado_final":true,"id_sancion":7}],"fecha_insert":"2022-02-04 18:22:50","fecha_insert_iso":{"$date":"2022-02-04T18:22:50Z"}}
+
